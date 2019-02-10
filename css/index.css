@@ -208,8 +208,10 @@ body {
         height:230px ;
         background-repeat: round;
         overflow: hidden;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
     }
-    .my-img3 {
+    .my-img5 {
         background-image: url(../assets/paris.jpg);
         width: 218.875px;
         height:230px ;
@@ -764,14 +766,14 @@ body {
         overflow: hidden;
     }
     .my-img4 {
-        background-image: url(../assets/venice.jpg);
+        background-image: url(../assets/home2.jpg);
         width: 136.797px;
         height:210px ;
         background-repeat: round;
         overflow: hidden;
     }
     .my-img5 {
-        background-image: url(../assets/venice.jpg);
+        background-image: url(../assets/paris.jpg);
         width: 136.797px;
         height:210px ;
         background-repeat: round;
